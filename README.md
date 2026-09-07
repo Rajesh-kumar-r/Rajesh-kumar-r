@@ -1,11 +1,12 @@
 # Hi, I'm Rajesh 👋
 
-🚀 Senior Front-End Engineer with 7+ years of experience building scalable web applications.
+🚀 Senior Full-Stack Engineer with 7+ years of experience — frontend-led, building React/Next.js applications end-to-end with Python and Node.js backends.
 
 ---
 
 ## 🧑‍💻 About Me
 - 💻 Specializing in React.js & Next.js
+- 🔧 Building backend services & REST APIs with Node.js (Express) and Python (Django/DRF, FastAPI, Flask)
 - ⚡ Focused on performance optimization & scalable architecture
 - 👨‍🏫 Mentoring developers & conducting tech sessions
 - 🏗️ Experience in building large-scale, production-grade apps
@@ -16,9 +17,12 @@
 **Frontend:** React.js, Next.js, TypeScript, JavaScript  
 **State Management:** Redux, Redux-Saga  
 **UI:** Ant Design, Material UI, TailwindCSS, SCSS  
-**Testing:** Jest, Cypress  
-**Backend & APIs:** REST APIs, WebSockets  
-**DevOps:** AWS (S3, CloudFront, CodePipeline, CodeBuild), Buddy CI/CD  
+**Backend:** Node.js, Express, Python, Django / DRF, FastAPI, Flask  
+**ORMs & Data:** Prisma, TypeORM, Django ORM  
+**APIs & Auth:** REST, WebSockets, JWT, OAuth  
+**Databases:** PostgreSQL, MongoDB  
+**Testing:** Jest, Cypress, pytest, Supertest  
+**DevOps:** Docker, AWS (S3, CloudFront, CodePipeline, CodeBuild), Cloudflare, Hetzner, Buddy CI/CD  
 
 ---
 
@@ -32,9 +36,11 @@
 
 ## 📈 What I Do
 - Build high-performance, scalable frontend applications  
+- Design and build backend APIs and services (Node.js, Python)  
+- Model data and work with SQL/NoSQL databases (PostgreSQL, MongoDB)  
 - Optimize applications (load time, rendering, architecture)  
 - Design reusable component systems  
-- Lead and mentor frontend teams  
+- Lead and mentor engineering teams  
 
 ---
 
